@@ -1,0 +1,14 @@
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\bin\Debug\net6.0\LoopSoma.exe
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\bin\Debug\net6.0\LoopSoma.deps.json
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\bin\Debug\net6.0\LoopSoma.runtimeconfig.json
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\bin\Debug\net6.0\LoopSoma.dll
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\bin\Debug\net6.0\LoopSoma.pdb
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\obj\Debug\net6.0\LoopSoma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\obj\Debug\net6.0\LoopSoma.AssemblyInfoInputs.cache
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\obj\Debug\net6.0\LoopSoma.AssemblyInfo.cs
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\obj\Debug\net6.0\LoopSoma.csproj.CoreCompileInputs.cache
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\obj\Debug\net6.0\LoopSoma.dll
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\obj\Debug\net6.0\refint\LoopSoma.dll
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\obj\Debug\net6.0\LoopSoma.pdb
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\obj\Debug\net6.0\LoopSoma.genruntimeconfig.cache
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\LoopSoma\LoopSoma\obj\Debug\net6.0\ref\LoopSoma.dll
